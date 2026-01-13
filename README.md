@@ -49,10 +49,35 @@ This repository explains *why some transitions never survive*.
 
 ---
 
-## Status
+## Conceptual Scope
 
 Conceptual and structural.  
 No mathematics required.  
 No optimization proposed.
 
 Read as grammar, not theory.
+
+---
+
+## Status of the Framework
+
+This repository defines the canonical form of the Congruity Framework.
+
+The framework is formally complete.
+
+The seven levels constitute a closed system of admissibility: a structural law that determines
+when processes, systems, or decisions are proportionate, sustainable, and legitimate
+before any optimization, scaling, or governance mechanism is applied.
+
+No additional levels are planned.
+No extensions modify the core structure.
+
+All future work related to Congruity will occur downstream of this framework, including:
+- sector-specific instantiations
+- applied diagnostic models
+- validation studies
+- certification and audit methodologies
+- operational or computational implementations
+
+This repository therefore represents the stable reference layer of the Congruity Framework.
+Innovation proceeds by application, not by alteration of the core.
